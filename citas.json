@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Chimuelo",
+    "edad": "6 años",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "otitis"
+  },
+  {
+    "nombre": "Luna",
+    "edad": "3 años",
+    "animal": "gato",
+    "color": "gris",
+    "enfermedad": "gripe"
+  },
+  {
+    "nombre": "Negro",
+    "edad": "1 años",
+    "animal": "gato",
+    "color": "negro",
+    "enfermedad": "desnutrido"
+  }
+]
